@@ -1,0 +1,156 @@
+body {
+    background:
+        -moz-radial-gradient(rgb(226, 226, 226) 15%, transparent 16%),
+        -moz-radial-gradient(rgb(226, 226, 226) 15%, transparent 16%),
+        white;
+    background:
+        -webkit-radial-gradient(rgb(226, 226, 226) 15%, transparent 16%),
+        -webkit-radial-gradient(rgb(226, 226, 226) 15%, transparent 16%),
+        white;
+    
+    
+    -webkit-background-size:60px 60px;
+    -moz-background-size:60px 60px;
+    background-size:60px 60px;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+}
+nav{
+    background-color: white !important;
+    opacity: .8;
+}
+#navbarNav{
+justify-content: right;
+}
+.jumbotron{
+    background-color: transparent;
+    height: 410px;
+}
+.jcircle{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+    background-color: white;
+    margin-top: 30px;
+}
+.cjtitle{
+    text-decoration-style: dotted;
+    margin-top: 50px;
+    height: 50px;
+}
+.uil-sliders-v-alt{
+    height: 20px;
+    width: 20px;
+    color: black;
+}
+.wholecard{
+    margin-bottom: 40px;
+}
+.card{
+    height: 380px;
+    width: 354px;
+    border-radius: 20px 20px 0px 0px;
+    overflow: hidden;
+    border: 0px;
+}
+.card-img{
+    height:100%; 
+    width: 500px !important;
+}
+.skrim{
+    background-color: black;
+    opacity: .3;
+    height:100%; 
+    width: 500px !important;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.info{
+    padding:25px;
+}
+.fa-compact-disc{
+margin-right: 15px;
+}
+.category{
+    font-size: 12pt;
+    font-weight: 100;
+}
+.title{
+    font-size: 24pt;
+    font-weight: 600;
+}
+.hack{
+    margin-bottom: 64px;
+}
+.lab{
+    margin-bottom: 64px;
+}
+.college{
+    margin-bottom: 64px;
+}
+.fa-calendar{
+    margin-right: 15px;
+    margin-left: 1px;
+}
+.fa-clock{
+    margin-right: 14px;
+}
+.fa-map-marker-alt{
+    margin-right: 16px;
+    margin-left: 2px;
+}
+.fa-dollar-sign{
+    margin-right: 18px;
+    margin-left: 3px;
+}
+.fa-angle-down{
+    margin-left: 3px;
+}
+.attend{
+    width: 125px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #FA790A;
+    border: 0px;
+    color: white;
+}
+.share{
+    width: 125px;
+    height: 40px;
+    border-radius: 20px;
+    border-color: #FA790A;
+    background-color: transparent;
+    color: white;
+    margin-left: 40px;
+}
+.buttons{
+    padding-top: 20px;
+}
+.bottom{
+    height: 40px;
+    width: 354px;
+    border-top-color: white;
+    border: .5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 0px 0px 20px 20px;
+    background-color: white;
+}
+.techhub{
+    width: 100%;
+    height: 400px;
+    margin-top: 90px;
+}
+.extra{
+    height: 350px;
+    width: 350px;
+}
